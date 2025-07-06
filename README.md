@@ -65,7 +65,7 @@ Este projeto está sob a licença GNU General Public License v3.0 - veja o arqui
 
 ## 📞 Contato
 
-DereckySany - [GitHub](https://github.com/DereckySany)
+me - [GitHub](https://github.com/DereckySany)
 
 Link do Projeto: [nds4droid](https://github.com/DereckySany/nds4droid)
 
